@@ -4,7 +4,7 @@
 
 ## Table of Contents
 1. [General Info](#general-info)
-2. Software Utilizado : Eclipse Workspace Version: 2023-03 (4.27.0)
+2. [Software Utilizado] : Eclipse Workspace Version: 2023-03 (4.27.0)
 3. [Installation](#installation)
 
 ### General Info
